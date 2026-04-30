@@ -11,7 +11,7 @@ API Testing, Manual Testing, and Bug Reporting.
 | Manual Testing | Test Planning, Test Cases |
 | Bug Reporting | Detailed Bug Reports |
 | API Methods | GET, POST, PUT, DELETE |
-| Domains | HR Tech (ADP), Hotel Booking |
+| Domains | HR Tech (ADP), E-Restaurant |
 
 ## 📁 Repository Structure
 | Folder | Description |
