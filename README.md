@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prasun Nigam — QA Engineer
+# 👋 Hi, I'm Prasun Nigam - QA Analyst 
 
 ## 🧪 About This Portfolio
 This repository showcases my QA skills including
