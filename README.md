@@ -26,9 +26,9 @@ API Testing, Manual Testing, and Bug Reporting.
 - Requests: 6 endpoints tested
 - Coverage: Health Check, Auth Token, GET, POST, PUT, DELETE
 
-### 🏢 ADP HR Employee APIs
+### 🏢 ADP HR and Payroll Employee APIs
 - Tool: Postman
-- Requests: 28+ endpoints
+- Requests: 100+ endpoints
 - Coverage: Employee Hire, Termination, LOA, Tracker
 
 ## 📬 Connect With Me
